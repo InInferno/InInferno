@@ -2,7 +2,7 @@
 ## Frontend Developer
 
 **Stack:**
-<code>
+<p align="center">
   <img width="25" height="25" src="./icons/javascript.svg" alt="JavaScript">
   <img width="25" height="25" src="./icons/typescript.svg" alt="TypeScript">
   <img width="25" height="25" src="./icons/html5.svg" alt="HTML5">
@@ -17,5 +17,5 @@
   <img width="25" height="25" src="./icons/nodejs.svg"  alt="Node">
   <img width="25" height="25" src="./icons/expressjs.svg"  alt="Express">
   <img width="25" height="25" src="./icons/mongodb.svg"  alt="MongoDB">
-  <img width="25" height="25" src="./icons/eslint.svg"  alt="ESlint">  
-</code>
+  <img width="25" height="25" src="./icons/eslint.svg"  alt="ESlint">
+</p>
